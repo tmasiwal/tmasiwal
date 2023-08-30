@@ -5,12 +5,19 @@
  <img align="right"   src="https://github.com/tmasiwal/tmasiwal/assets/123891999/0541dbc7-0c4e-4663-ad3e-b4ce185faec7" width="400" height="250"/>
  <br>
  <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tanuj-masiwal-aa356b1b8/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tanujmasiwal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanuj-masiwal-aa356b1b8/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tanujmasiwal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tmasiwal.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Portfolio%20Link-ff69b4?style=for-the-badge" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
