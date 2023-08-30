@@ -2,10 +2,14 @@
 <h3 align="center">Full Stack Developer | MERN Developer | Civil Engineer by degree</h3>
 <p align="center"> I'm a Civil Engineer by education🎓 from I.T. Gopeshwar 🏛.  I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 
  </p>
- <a href="https://tmasiwal.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Portfolio%20Link-ff69b4?style=for-the-badge" />
-  </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmasiwal&label=Profile%20views&color=0e75b6&style=flat" alt="tmasiwal" /> </p>
+ - 🔭 Currently pursuing Full Stack Web Development (Full Time) Course at Masai School, Bengaluru.
+
+- ✉ Gmail :  [tanujmasiwal@gmail.com](tanujmasiwal@gmail.com)
+
+- 🔗 Portfolio :https://tmasiwal.github.io/
+
+- 📄 Resume : [Resume Link](https://drive.google.com/file/d/1ukPNTCQ_8JUIylxlYZ3ATeCvx5ZVEWjF/view?usp=sharing)
+ 
  <img align="right"   src="https://github.com/tmasiwal/tmasiwal/assets/123891999/0541dbc7-0c4e-4663-ad3e-b4ce185faec7" width="400" height="250"/>
  <br>
  <br>
