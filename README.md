@@ -8,7 +8,7 @@
 
 - 🔗 Portfolio :https://tmasiwal.github.io/
 
-- 📄 Resume : [Resume Link](https://drive.google.com/file/d/1ukPNTCQ_8JUIylxlYZ3ATeCvx5ZVEWjF/view?usp=sharing)
+- 📄 Resume : [Resume Link](https://drive.google.com/file/d/1V2VniQdm1PGF4-hQSnBvgW0mYbhunhyI/view?usp=sharing)
  
  <img align="right"   src="https://github.com/tmasiwal/tmasiwal/assets/123891999/0541dbc7-0c4e-4663-ad3e-b4ce185faec7" width="400" height="250"/>
  <br>
